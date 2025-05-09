@@ -1,1 +1,1 @@
-in this repo i am just uploading my learing journey  of ML Algorithm
+in this repo i am just uploading my modules  of ML Algorithms
